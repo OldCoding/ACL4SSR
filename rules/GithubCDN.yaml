@@ -9,6 +9,7 @@ payload:
     - fastly.jsdelivr.net
     - g.blfrp.cn
     - gcore.jsdelivr.net
+    - gh-proxy.org
     - gh.api.99988866.xyz
     - gh.catmak.name
     - gh.chjina.com
@@ -27,7 +28,6 @@ payload:
     - ghproxy.it
     - ghproxy.monkeyray.net
     - ghproxy.net
-    - gh-proxy.org
     - ghpxy.hwinzniej.top
     - git.yylx.win
     - gitclone.com
